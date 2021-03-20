@@ -1,5 +1,5 @@
 title = "Life Science Club"
-baseURL = "https://example.com"
+baseURL = "https://life-science-club-website-preview.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "resources"
