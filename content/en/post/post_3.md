@@ -1,7 +1,6 @@
 ---
 title: "Post_3"
 date: 2021-03-20T15:49:00-04:00
-draft: true
 disable_share: true
 ---
 
